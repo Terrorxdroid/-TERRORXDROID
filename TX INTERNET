@@ -1,5 +1,5 @@
 {
-    "Version": "101",
+    "Version": "102",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -36,7 +36,7 @@
     ],
     "Networks": [
         {
-            "Name": "VIVO TODAS REGIÕES ✅️",
+            "Name": "VIVO TODAS REGIÕES 🚀",
             "FLAG": "vivo",
             "Payload": "ACL wss://servidor2.terrorcloud.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
             "SNI": "",
