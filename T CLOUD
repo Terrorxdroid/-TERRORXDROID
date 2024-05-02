@@ -1,5 +1,5 @@
 {
-  "version":"124",
+  "version":"125",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -8,10 +8,10 @@
       "ServerIP":"servidor1.terrorcloud.shop",
       "ServerPort":"80",
       "SSLPort":"443",
-      "XUser":"null",
-      "XPass":":'':",
+      "XUser":"teste",
+      "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree1.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://149.78.185.130:5000/checkUser",
       "servermessage":""
     },
     {
@@ -20,8 +20,8 @@
       "ServerIP":"servidor1.terrorcloud.shop",
       "ServerPort":"80",
       "SSLPort":"443",
-      "XUser":"null",
-      "XPass":":'':",
+      "XUser":"teste",
+      "XPass":"teste",
       "sInfo":"FREE VPN",
       "connections_info_url":"http://svdfree1.vivomoney.xyz:8888/server/online",
       "servermessage":""
@@ -32,8 +32,8 @@
       "ServerIP":"servidor2.terrorcloud.shop",
       "ServerPort":"80",
       "SSLPort":"443",
-      "XUser":"null",
-      "XPass":":'':",
+      "XUser":"teste",
+      "XPass":"teste",
       "sInfo":"FREE VPN",
       "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
       "servermessage":""
@@ -44,8 +44,8 @@
       "ServerIP":"servidor4.terrorcloud.shop",
       "ServerPort":"80",
       "SSLPort":"443",
-      "XUser":"null",
-      "XPass":":'':",
+      "XUser":"teste",
+      "XPass":"teste",
       "sInfo":"FREE VPN",
       "connections_info_url":"http://svdfree3.vivomoney.xyz:8888/server/online",
       "servermessage":""
@@ -56,8 +56,8 @@
       "ServerIP":"servidor3.terrorcloud.shop",
       "ServerPort":"80",
       "SSLPort":"443",
-      "XUser":"null",
-      "XPass":":'':",
+      "XUser":"teste",
+      "XPass":"teste",
       "sInfo":"FREE VPN",
       "connections_info_url":"http://svdfree4.vivomoney.xyz:8888/server/online",
       "servermessage":""
