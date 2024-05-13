@@ -1,5 +1,5 @@
 {
-    "Version": "102",
+    "Version": "103",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -51,7 +51,7 @@
             "Payload": "[split][lf]PUT - [lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -61,7 +61,7 @@
             "Payload": "[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -71,7 +71,7 @@
             "Payload": "\r[instant_split][raw][auth]OPTIONS / HTTP/1.1[crlf]Host: baal.tech/captive-static/tarif-def/pd/index.html[crlf]X-Online-Host: www.portalsva2.vivo.com.br/captive-static/tarif-def/pd/index.html[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -81,7 +81,7 @@
             "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portalrecarga.vivo.com.br[lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -91,7 +91,7 @@
             "Payload": "[split][lf]TRACE / HTTP/1.1[crlf]Host: servidor1.terrorcloud.shop[crlf]Upgrade: WebSocketExtensions[crlf]Connection: Upgrade-Insecure-Requests[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -101,25 +101,25 @@
             "Payload": "UPDATE / HTTP/1.1[lf]Host: www.vivoplataformadigital.com.br;www.fundacaotelefonicavivo.org.br;ae.godaddy.com[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf]@TERRORXDROID[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "VIVO CONTROLE NOVA 🔐",
             "FLAG": "vivo",
-            "Payload": "ACL wss://servidor2.terrorcloud.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+            "Payload": "ACL wss://servidor.terrorcloud.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
             "SNI": "149.78.185.130",
             "TlsIP": "149.78.185.130",
             "ProxyIP": "141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "VIVO CONTROLE [05]",
             "FLAG": "vivo",
             "Payload": "FORCE /? FULL / HTTP/1.0[crlf]HOST: servidor1.terrorcloud.shop[crlf]UPGRADE: TERROR[crlf][crlf]",
-            "SNI": "149.78.185.130",
+            "SNI": "45.140.193.148",
             "TlsIP": "149.78.185.130",
             "ProxyIP": "141.193.213.10#141.193.213.10#104.17.70.206#141.193.213.11#104.18.7.41#104.26.5.32#141.193.213.10#141.193.213.10#104.17.70.206#141.193.213.11#104.18.7.41#104.26.5.32#141.193.213.10",
             "ProxyPort": "80",
@@ -151,7 +151,7 @@
             "Payload": "HTTP/ [crlf][crlf]|[crlf]#GET global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -161,7 +161,7 @@
             "Payload": "HTTP/1.1 [lf]Host: [host][lf][lf]Upgrade: websocket[crlf]Connection: Upgrade[lf][lf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -201,7 +201,7 @@
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [host_port]@[rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]X-Forwarded-For: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Upgrade: websocket[crlf][raw][crlf][crlf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Direct"
         },
@@ -211,7 +211,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@fenixnetbr[crlf][crlf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Direct"
         },
@@ -221,7 +221,7 @@
             "Payload": "UPDATE / HTTP/1.1[lf]Host: www.vivoplataformadigital.com.br;www.fundacaotelefonicavivo.org.br;ae.godaddy.com[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf]@TERRORXDROID[lf][lf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "80",
             "Info": "Direct"
         },
@@ -241,7 +241,7 @@
             "Payload": "",
             "SNI": "dns.web.whatsapp.com",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -251,7 +251,7 @@
             "Payload": "",
             "SNI": "m.twitter.com",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -261,7 +261,7 @@
             "Payload": "",
             "SNI": "musicaclaro.com.br",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -271,7 +271,7 @@
             "Payload": "",
             "SNI": "web.whatsapp.com",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -281,7 +281,7 @@
             "Payload": "",
             "SNI": "api.whatsapp.com",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -291,7 +291,7 @@
             "Payload": "",
             "SNI": "m.waze.com",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -301,7 +301,7 @@
             "Payload": "",
             "SNI": "c.whatsapp.net",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         },
@@ -311,7 +311,7 @@
             "Payload": "",
             "SNI": "media.whatsapp.net",
             "TlsIP": "",
-            "ProxyIP": "149.78.185.130",
+            "ProxyIP": "45.140.193.148",
             "ProxyPort": "443",
             "Info": "Ssl"
         }
