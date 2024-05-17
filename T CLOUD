@@ -1,5 +1,5 @@
 {
-  "version":"129",
+  "version":"130",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -211,7 +211,7 @@
       "Name":"TIM AVIÃO TODOS DDD ✈️",
       "payload_flag":"tim",
       "Payload":"HTTP/1.1 [lf]Host: [host][lf][lf]Upgrade: websocket[crlf]Connection: Upgrade[lf][lf]",
-      "ProxyIP":"164.92.80.195",
+      "ProxyIP":"167.99.178.200",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
@@ -224,7 +224,7 @@
       "Name":"TIM AVIÃO TODOS DDD 1 🟢",
       "payload_flag":"tim",
       "Payload":"HTTP/ [lf][lf]|[lf]GET global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[lf]",
-      "ProxyIP":"147.182.184.231",
+      "ProxyIP":"167.99.178.200",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
