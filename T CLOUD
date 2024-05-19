@@ -1,5 +1,5 @@
 {
-  "version":"130",
+  "version":"131",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -78,10 +78,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO AVIÃO TODOS DDD ✈️",
+      "Name":"VIVO AVIÃO TODOS DDD ✈",
       "payload_flag":"vivo",
-      "Payload":"ACL / HTTP/1.1[lf]Host: servidor2.terrorcloud.shop[lf]Upgrade: Websocket Upgrade: [lf][split][lf]",
-      "ProxyIP":"104.18.6.41#172.64.150.8#104.24.10.16#104.18.37.248#104.26.5.32#104.17.70.206#45.140.193.148",
+      "Payload":"CONNECT sni://cdn.jsdelivr.net HTTP/1.1[crlf]Host: servidor5.terrorcloud.shop [crlf]X-Forward-Host: servidor5.terrorcloud.shop[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "ProxyIP":"45.140.193.148",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
