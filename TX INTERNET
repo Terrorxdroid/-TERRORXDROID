@@ -1,5 +1,5 @@
 {
-    "Version": "104",
+    "Version": "105",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -11,7 +11,7 @@
     "fundoDoLogOnline": "",
     "rodapeonline": "",
     "UrlTermos": "",
-    "CheckUser": "http://2804:5364:7000:1:1:1:51ba:7bad:5000",
+    "CheckUser": "https://terraatualizada.com/checkuser.php?url=http://45.140.193.148:5454/checkUser",
     "Udp": [
         {
             "Porta": "7300"
@@ -27,7 +27,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "servidor1.terrorcloud.shop",
-            "CheckUser": "http://2804:5364:7000:1:1:1:51ba:7bad:8888/checkUser",
+            "CheckUser": "https://terraatualizada.com/checkuser.php?url=http://45.140.193.148:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
