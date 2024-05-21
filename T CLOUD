@@ -1,5 +1,5 @@
 {
-  "version":"131",
+  "version":"132",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -11,7 +11,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://149.78.185.130:5000/checkUser",
+      "connections_info_url":"https://terraatualizada.com/checkuser.php?url=http://45.140.193.148:5454/checkUser",
       "servermessage":""
     },
     {
