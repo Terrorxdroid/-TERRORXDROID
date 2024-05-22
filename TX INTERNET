@@ -1,5 +1,5 @@
 {
-    "Version": "105",
+    "Version": "106",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -168,10 +168,10 @@
         {
             "Name": "TIM SALDO VÁLIDO [01]",
             "FLAG": "tim",
-            "Payload": "HTTP/1.9[crlf]host: mobile.hom.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: servidor1.terrorcloud.shop[crlf]Accept-Encoding: identity[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Location: https://wa.me/84996862124 [crlf]Referer: https://t.me/starlinkoficial [crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: cloudflare[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "Payload": "ACL /index.html HTTP/1.1[crlf]Host: live.vivo.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: timvalido.terrorcloud.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
+            "ProxyIP": "investnews.com.br#dataacademy.descomplica.com.br#104.19.240.25#investnews.com.br#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#investnews.com.br#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
