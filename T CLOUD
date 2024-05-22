@@ -1,5 +1,5 @@
 {
-  "version":"134",
+  "version":"135",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -286,10 +286,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM MODO AVIÃO - 06",
+      "Name":"TIM SALDO VÁLIDO - 01",
       "payload_flag":"tim",
-      "Payload":"ACL / HTTP/1.1[crlf]Host: servidor1.terrorcloud.shop[crlf]Connection: Upgrade[crlf]Upgrade: WebSocket[crlf][crlf]",
-      "ProxyIP":"104.16.239.166#164.92.80.195",
+      "Payload":"ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: timvalido.terrorcloud.shop[crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
+      "ProxyIP":"dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
@@ -299,10 +299,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM MODO AVIÃO - 07",
+      "Name":"TIM SALDO VÁLIDO- 02",
       "payload_flag":"tim",
-      "Payload":"HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n",
-      "ProxyIP":"147.182.184.231#164.92.80.195",
+      "Payload":"ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: timvalido.terrorcloud.shop[crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
+      "ProxyIP":"dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
@@ -312,9 +312,9 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM SALDO VÁLIDO ✅️",
+      "Name":"TIM SALDO VÁLIDO - 03",
       "payload_flag":"tim",
-      "Payload":"GET / HTTP/1.1[lf]Host: servidor1.terrorcloud.shop[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload":"GET / HTTP/1.1[lf]Host: timvalido.terrorcloud.shop[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP":"104.18.33.113#172.64.154.143#172.67.188.168#104.17.64.225#104.18.99.70",
       "ProxyPort":"80",
       "SNI":"",
