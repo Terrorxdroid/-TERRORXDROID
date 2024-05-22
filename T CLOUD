@@ -1,5 +1,5 @@
 {
-  "version":"138",
+  "version":"139",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -286,7 +286,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM SALDO VÁLIDO - 01 🟢",
+      "Name":"TIM VÁLIDO MODO AVIÃO - 01 🟢",
       "payload_flag":"tim",
       "Payload":"ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: timvalido.terrorcloud.shop[crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
       "ProxyIP":"dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
