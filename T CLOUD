@@ -1,5 +1,5 @@
 {
-  "version":"137",
+  "version":"138",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -78,7 +78,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO AVIÃO TODOS DDD ✈",
+      "Name":"VIVO AVIÃO TODOS DDD - 00",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]DELETE ● [lf][lf]",
       "ProxyIP":"45.140.193.148",
@@ -292,7 +292,7 @@
       "ProxyIP":"dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
-      "pInfo":"Operadora TIM - Saldo Expirado",
+      "pInfo":"Operadora TIM - Saldo Valido",
       "Slowchave":"",
       "Nameserver":"",
       "Slowdns":"8.8.8.8",
@@ -305,7 +305,7 @@
       "ProxyIP":"investnews.com.br",
       "ProxyPort":"80",
       "SNI":"",
-      "pInfo":"Operadora TIM - Saldo Expirado",
+      "pInfo":"Operadora TIM - Saldo Valido",
       "Slowchave":"",
       "Nameserver":"",
       "Slowdns":"8.8.8.8",
@@ -325,7 +325,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO MODO AVIÃO ✈️ - 00",
+      "Name":"CLARO MODO AVIÃO - 00",
       "payload_flag":"claro",
       "Payload":"GET wss://servidor1.terrorcloud.shop HTTP/1.1[lf]Host: www.icanhazip.com[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "ProxyIP":"104.16.184.241",
