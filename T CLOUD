@@ -1,5 +1,5 @@
 {
-  "version":"140",
+  "version":"141",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -210,7 +210,7 @@
     {
       "Name":"TIM AVIÃO TODOS DDD 🇧🇷 - 00",
       "payload_flag":"tim",
-      "Payload":"PATCH / HTTP/1.1[lf]Host: servidor1.terrorcloud.shop[lf]Upgrade: Websocket[ua][lf][lf]",
+      "Payload":"PATCH / HTTP/1.1[lf]Host: timvalido.terrorcloud.shop[lf]Upgrade: Websocket[ua][lf][lf]",
       "ProxyIP":"104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166",
       "ProxyPort":"80",
       "SNI":"",
