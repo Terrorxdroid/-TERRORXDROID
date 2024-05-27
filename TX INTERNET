@@ -1,5 +1,5 @@
 {
-    "Version": "109",
+    "Version": "110",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -146,12 +146,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM AVIÃO TODOS DDD 🔥",
+            "Name": "TIM AVIÃO NOVA 1 🟢",
             "FLAG": "tim",
-            "Payload": "HTTP/ [crlf][crlf]|[crlf]#GET global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+            "Payload": "PATCH / HTTP/1.1[lf]Host: servidor1.terrorcloud.shop[lf]Upgrade: Websocket[ua][lf][lf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "45.140.193.148",
+            "ProxyIP": "104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
