@@ -1,5 +1,5 @@
 {
-  "version":"142",
+  "version":"143",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -338,10 +338,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO MODO AVIÃO - 00",
+      "Name":"CLARO AVIÃO NOVA 🇧🇷",
       "payload_flag":"claro",
-      "Payload":"GET wss://servidor1.terrorcloud.shop HTTP/1.1[lf]Host: www.icanhazip.com[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-      "ProxyIP":"104.16.184.241",
+      "Payload":"PATCH http://m.claro.com.br HTTP/1.0[crlf]Host: m.claro.com.br;meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "ProxyIP":"18.228.172.43",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora CLARO - Sem Planos",
