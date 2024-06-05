@@ -1,5 +1,5 @@
 {
-  "version":"143",
+  "version":"144",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -338,7 +338,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO AVIÃO NOVA 🇧🇷",
+      "Name":"CLARO AVIÃO NOVA 🇧🇷 1",
       "payload_flag":"claro",
       "Payload":"PATCH http://m.claro.com.br HTTP/1.0[crlf]Host: m.claro.com.br;meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "ProxyIP":"18.228.172.43",
@@ -351,13 +351,13 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO PLANOS - 01",
+      "Name":"CLARO AVIÃO NOVA 🇧🇷 2",
       "payload_flag":"claro",
-      "Payload":"GET / HTTP/1.1[crlf]host: www.claro.com. br\n",
+      "Payload":"PATCH / HTTP/1.1[lf]Host: meuplanoclaro.com.br[lf]HTTP/1.1[lf]Host: meuplanoclaro.com.br[lf]X-Online-Host: meuplanoclaro.com.br[lf]X-Forwarded-Host: meuplanoclaro.com.br[lf]X-Forwarded-For: meuplanoclaro.com.br[lf]Proxy-Connection: Websocket[lf]Connection: Websocket[lf] [lf][lf]",
       "ProxyIP":"45.140.193.148",
       "ProxyPort":"80",
       "SNI":"",
-      "pInfo":"Operadora CLARO - Planos",
+      "pInfo":"Operadora CLARO Sem - Planos",
       "Slowchave":"",
       "Nameserver":"",
       "Slowdns":"8.8.8.8",
