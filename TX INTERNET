@@ -1,5 +1,5 @@
 {
-    "Version": "111",
+    "Version": "112",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -236,14 +236,14 @@
             "Info": "Proxy"
         },
         {
-            "Name": "CLARO TLS [01]",
+            "Name": "CLARO NOVA 🇧🇷 [01]",
             "FLAG": "claro",
-            "Payload": "",
+            "Payload": "PATCH http://m.claro.com.br HTTP/1.0[crlf]Host: m.claro.com.br;meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
             "SNI": "dns.web.whatsapp.com",
             "TlsIP": "",
             "ProxyIP": "45.140.193.148",
-            "ProxyPort": "443",
-            "Info": "Ssl"
+            "ProxyPort": "80",
+            "Info": "Proxy"
         },
         {
             "Name": "CLARO TLS [02]",
