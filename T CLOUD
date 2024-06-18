@@ -1,5 +1,5 @@
 {
-  "version":"145",
+  "version":"146",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -224,7 +224,7 @@
       "Name":"TIM AVIÃO EXPIRADO - 01",
       "payload_flag":"tim",
       "Payload":"HTTP/1.1 [lf]Host: [host][lf][lf]Upgrade: websocket[crlf]Connection: Upgrade[lf][lf]",
-      "ProxyIP":"18.230.208.118",
+      "ProxyIP":"45.140.193.148",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
@@ -237,7 +237,7 @@
       "Name":"TIM AVIÃO EXPIRADO - 02",
       "payload_flag":"tim",
       "Payload":"HTTP/ [lf][lf]|[lf]GET global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[lf]",
-      "ProxyIP":"18.230.208.118",
+      "ProxyIP":"45.140.193.148",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
@@ -250,7 +250,7 @@
       "Name":"TIM AVIÃO EXPIRADO - 03",
       "payload_flag":"tim",
       "Payload":"HTTP/ [lf][lf][ua]",
-      "ProxyIP":"18.230.208.118",
+      "ProxyIP":"45.140.193.148",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
@@ -341,7 +341,7 @@
       "Name":"CLARO AVIÃO NOVA 🇧🇷 1",
       "payload_flag":"claro",
       "Payload":"PATCH http://m.claro.com.br HTTP/1.0[crlf]Host: m.claro.com.br;meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "ProxyIP":"18.230.208.118",
+      "ProxyIP":"45.140.193.148",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora CLARO - Sem Planos",
