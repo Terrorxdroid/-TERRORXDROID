@@ -1,5 +1,5 @@
 {
-  "version":"147",
+  "version":"148",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -81,7 +81,7 @@
       "Name":"VIVO AVIÃO TODOS DDD - 00",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]DELETE ● [lf][lf]",
-      "ProxyIP":"45.140.193.148",
+      "ProxyIP":"157.254.54.66",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
@@ -133,7 +133,7 @@
       "Name":"VIVO SECURITY - 04",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]ACL / /\\n",
-      "ProxyIP":"45.140.193.148",
+      "ProxyIP":"157.254.54.66",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
