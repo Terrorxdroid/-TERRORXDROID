@@ -208,10 +208,23 @@
       "Modo":"Proxy"
     },
     {
+      "Name":"TIM AVIÃO NOVA 🔥🔥",
+      "payload_flag":"tim",
+      "Payload":"ACL / HTTP/1.1[crlf]Host: servidor1.terrorcloud.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+      "ProxyIP":"104.19.241.93#104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166#157.254.54.66",
+      "ProxyPort":"80",
+      "SNI":"",
+      "pInfo":"Operadora TIM - Saldo Expirado",
+      "Slowchave":"",
+      "Nameserver":"",
+      "Slowdns":"8.8.8.8",
+      "Modo":"Proxy"
+    },
+    {
       "Name":"TIM AVIÃO TODOS DDD 🇧🇷 - 00",
       "payload_flag":"tim",
       "Payload":"PATCH / HTTP/1.1[lf]Host: servidor6.terrorcloud.shop[lf]Upgrade: Websocket[ua][lf][lf]",
-      "ProxyIP":"104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166",
+      "ProxyIP":"104.19.241.93#104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Expirado",
