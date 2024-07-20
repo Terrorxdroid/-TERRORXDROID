@@ -1,5 +1,5 @@
 {
-  "version":"149",
+  "version":"150",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -70,6 +70,19 @@
       "Payload":"ACL wss://servidor2.terrorcloud.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP":"104.18.99.1#104.18.99.2#104.18.99.3#104.18.99.4#104.18.99.5#104.18.99.6#104.18.99.7#104.18.99.8#104.18.99.9#104.18.99.10#104.18.99.11#104.18.99.12#104.18.99.13#104.18.99.14#104.18.99.15#104.18.99.16#104.18.99.17#104.18.99.18#104.18.99.19#104.18.99.20#104.18.99.21#104.18.99.22#104.18.99.23#104.18.99.24",
       "ProxyPort":"8080",
+      "SNI":"",
+      "pInfo":"Operadora VIVO - Pré pago",
+      "Slowchave":"",
+      "Nameserver":"",
+      "Slowdns":"8.8.8.8",
+      "Modo":"Proxy"
+    },
+    {
+      "Name":"VIVO AVIÃO NOVO 🔥",
+      "payload_flag":"vivo",
+      "Payload":"[split][delay_split]DELETE ● [lf][lf]",
+      "ProxyIP":"172.233.14.28",
+      "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
       "Slowchave":"",
