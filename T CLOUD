@@ -1,5 +1,5 @@
 {
-  "version":"152",
+  "version":"153",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -325,10 +325,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM VÁLIDO MODO AVIÃO - 01 🟢",
+      "Name":"TIM VÁLIDO NOVO 🇧🇷",
       "payload_flag":"tim",
-      "Payload":"ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: servidor6.terrorcloud.shop[crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
-      "ProxyIP":"dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
+      "Payload":"ACL / HTTP/1.1[lf]Host: servidor3.terrorcloud.shop[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+      "ProxyIP":"104.19.241.93#141.193.213.10#141.193.213.11#104.18.33.113#blog.deezer.com#dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora TIM - Saldo Valido",
