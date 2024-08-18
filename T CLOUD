@@ -1,5 +1,5 @@
 {
-  "version":"159",
+  "version":"160",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -146,7 +146,7 @@
       "Name":"VIVO SECURITY - 04",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]ACL / /\\n",
-      "ProxyIP":"45.140.193.148",
+      "ProxyIP":"172.233.14.62",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
