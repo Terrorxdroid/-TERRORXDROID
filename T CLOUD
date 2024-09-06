@@ -1,5 +1,5 @@
 {
-  "version":"161",
+  "version":"162",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -81,7 +81,7 @@
       "Name":"VIVO AVIÃO NOVO 🔥",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]DELETE ● [lf][lf]",
-      "ProxyIP":"172.233.1.136",
+      "ProxyIP":"172.233.14.28",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
@@ -120,7 +120,7 @@
       "Name":"VIVO SECURITY - 02 🔥",
       "payload_flag":"vivo",
       "Payload":"[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
-      "ProxyIP":"172.233.1.122",
+      "ProxyIP":"172.233.14.28",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
@@ -146,7 +146,7 @@
       "Name":"VIVO SECURITY - 04",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]ACL / /\\n",
-      "ProxyIP":"172.233.14.62",
+      "ProxyIP":"172.233.14.28",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
