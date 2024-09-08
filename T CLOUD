@@ -1,5 +1,5 @@
 {
-  "version":"164",
+  "version":"165",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -81,7 +81,7 @@
       "Name":"VIVO AVIÃO NOVO 🔥",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]DELETE ● [lf][lf]",
-      "ProxyIP":"172.233.14.28",
+      "ProxyIP":"172.233.13.119",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
