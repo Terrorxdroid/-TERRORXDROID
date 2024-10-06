@@ -1,5 +1,5 @@
 {
-  "version":"168",
+  "version":"169",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -223,7 +223,7 @@
     {
       "Name":"TIM TODOS DDD - 01",
       "payload_flag":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app982 HTTP/1.1[crlf]Host: [rotate=cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app982 HTTP/1.1[crlf]Host: [rotate=d2dfi906ke9ms9.cloudfront.net][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "ProxyIP":"premier.sonos.dzcdn.net#timpospromo.com.br#launches.appsflyer.com#conversions.appsflyer.com#timlive.tim.com.br#io.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
