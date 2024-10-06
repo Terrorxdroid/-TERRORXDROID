@@ -1,5 +1,5 @@
 {
-  "version":"166",
+  "version":"167",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -221,26 +221,26 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM AVIÃO NOVA 🔥🔥",
+      "Name":"TIM TODOS DDD - 01",
       "payload_flag":"tim",
-      "Payload":"ACL / HTTP/1.1[crlf]Host: servidor1.terrorcloud.shop[crlf]Upgrade: Websocket[crlf][crlf]",
-      "ProxyIP":"104.19.241.93#104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166#157.254.54.66",
+      "Payload":"PATCH / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]PUT /app971 HTTP/1.1[crlf]Host: [rotate=cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "ProxyIP":"launches.appsflyer.com#university.segment.com#status.segment.com#cdn.edgefn.segment.com#www.dev.segment.com#commercials-db.dataeng.segment.com#static.segment.com#dev.segment.com#email.e.segment.com#g.segment.com#sagemaker.datasci.segment.com#messaging-cdn-app.segment.com#stage.segment.com#ajs.cd.segment.com#www.stage.segment.com#cdn-settings.segment.com#cdn-slow.segment.com#www.preview.segment.com#community.segment.com#13.227.97.49#13.227.97.116#13.227.97.28#13.227.97.69#99.84.31.80#13.227.126.91#52.85.213.121#13.227.126.58#timpospromo.com.br#d3uyk7qgi7fgpo.cloudfront.net#d3awytnmmfk53d.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#frontend-tim-recarga-client.m4u.com.br#blog.onecodex.com",
       "ProxyPort":"80",
       "SNI":"",
-      "pInfo":"Operadora TIM - Saldo Expirado",
+      "pInfo":"Operadora TIM Pré pago",
       "Slowchave":"",
       "Nameserver":"",
       "Slowdns":"8.8.8.8",
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM AVIÃO TODOS DDD 🇧🇷 - 00",
+      "Name":"TIM TODOS DDDD - 02",
       "payload_flag":"tim",
-      "Payload":"PATCH / HTTP/1.1[lf]Host: servidor6.terrorcloud.shop[lf]Upgrade: Websocket[ua][lf][lf]",
-      "ProxyIP":"104.19.241.93#104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166",
+      "Payload":"HEAD / HTTP/1.1[crlf]Host: [rotate=timpospromo.com.br;tim.com.br][lf][lf][split][lf]PATCH /app971 HTTP/1.1[lf]Host: [rotate=cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "ProxyIP":"launches.appsflyer.com#university.segment.com#status.segment.com#cdn.edgefn.segment.com#www.dev.segment.com#commercials-db.dataeng.segment.com#static.segment.com#dev.segment.com#email.e.segment.com#g.segment.com#sagemaker.datasci.segment.com#messaging-cdn-app.segment.com#stage.segment.com#ajs.cd.segment.com#www.stage.segment.com#cdn-settings.segment.com#cdn-slow.segment.com#www.preview.segment.com#community.segment.com#13.227.97.49#13.227.97.116#13.227.97.28#13.227.97.69#99.84.31.80#13.227.126.91#52.85.213.121#13.227.126.58#timpospromo.com.br#d3uyk7qgi7fgpo.cloudfront.net#d3awytnmmfk53d.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#frontend-tim-recarga-client.m4u.com.br#blog.onecodex.com",
       "ProxyPort":"80",
       "SNI":"",
-      "pInfo":"Operadora TIM - Saldo Expirado",
+      "pInfo":"Operadora TIM Pré pago",
       "Slowchave":"",
       "Nameserver":"",
       "Slowdns":"8.8.8.8",
