@@ -1,5 +1,5 @@
 {
-    "Version": "114",
+    "Version": "115",
     "ReleaseNotesa": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "https://bitbin.it/rBIqKJ2l/raw/",
@@ -156,12 +156,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM AVIÃO NOVA 1 🟢",
+            "Name": "TIM TODOS DDD ON 🟢",
             "FLAG": "tim",
-            "Payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[ua][lf][lf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app982 HTTP/1.1[crlf]Host: [rotate=d2dfi906ke9ms9.cloudfront.net][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "dasdsa",
             "TlsIP": "",
-            "ProxyIP": "104.17.64.225#104.18.99.70#104.16.239.166#unpkg.com#104.16.18.94#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.18.33.113#104.16.239.166",
+            "ProxyIP": "premier.sonos.dzcdn.net#timpospromo.com.br#launches.appsflyer.com#conversions.appsflyer.com#timlive.tim.com.br#io.descomplica.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
