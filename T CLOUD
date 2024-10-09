@@ -1,5 +1,5 @@
 {
-  "version":"170",
+  "version":"171",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -27,6 +27,66 @@
       "servermessage":""
     },
     {
+      "Name":"BRA-03 | FREE",
+      "server_flag":"br",
+      "ServerIP":"servidor2.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
+      "Name":"BRA-04 | FREE",
+      "server_flag":"br",
+      "ServerIP":"servidor4.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree3.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
+      "Name":"BRA-05 | FREE",
+      "server_flag":"sg",
+      "ServerIP":"servidor3.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree4.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
+      "Name":"BRA-06 | FREE",
+      "server_flag":"br",
+      "ServerIP":"servidor1.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"https://chk-terror.shop/apiproxy/proxy.php?url=http://45.140.193.148:8888/checkUser",
+      "servermessage":""
+    },
+    {
+      "Name":"BRA-07 | FREE",
+      "server_flag":"br",
+      "ServerIP":"servidor1.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree1.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
       "Name":"USA-01 | FREE",
       "server_flag":"us",
       "ServerIP":"servidor2.terrorcloud.shop",
@@ -39,7 +99,43 @@
       "servermessage":""
     },
     {
+      "Name":"USA-02 | FREE",
+      "server_flag":"us",
+      "ServerIP":"servidor2.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
+      "Name":"USA-03 | FREE",
+      "server_flag":"us",
+      "ServerIP":"servidor2.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
       "Name":"CA-01 | FREE",
+      "server_flag":"ca",
+      "ServerIP":"servidor4.terrorcloud.shop",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "XUser":"teste",
+      "XPass":"teste",
+      "sInfo":"FREE VPN",
+      "connections_info_url":"http://svdfree3.vivomoney.xyz:8888/server/online",
+      "servermessage":""
+    },
+    {
+      "Name":"CA-02 | FREE",
       "server_flag":"ca",
       "ServerIP":"servidor4.terrorcloud.shop",
       "ServerPort":"80",
