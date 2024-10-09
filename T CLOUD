@@ -1,9 +1,9 @@
 {
-  "version":"171",
+  "version":"173",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
-      "Name":"BRA-01 | FREE",
+      "Name":"BRA-01 FREE",
       "server_flag":"br",
       "ServerIP":"servidor1.terrorcloud.shop",
       "ServerPort":"80",
@@ -15,7 +15,7 @@
       "servermessage":""
     },
     {
-      "Name":"BRA-02 | FREE",
+      "Name":"BRA-02 FREE",
       "server_flag":"br",
       "ServerIP":"servidor1.terrorcloud.shop",
       "ServerPort":"80",
@@ -27,7 +27,7 @@
       "servermessage":""
     },
     {
-      "Name":"BRA-03 | FREE",
+      "Name":"BRA-03 FREE",
       "server_flag":"br",
       "ServerIP":"servidor2.terrorcloud.shop",
       "ServerPort":"80",
@@ -39,7 +39,7 @@
       "servermessage":""
     },
     {
-      "Name":"BRA-04 | FREE",
+      "Name":"BRA-04 FREE",
       "server_flag":"br",
       "ServerIP":"servidor4.terrorcloud.shop",
       "ServerPort":"80",
@@ -51,8 +51,8 @@
       "servermessage":""
     },
     {
-      "Name":"BRA-05 | FREE",
-      "server_flag":"sg",
+      "Name":"BRA-05 FREE",
+      "server_flag":"br",
       "ServerIP":"servidor3.terrorcloud.shop",
       "ServerPort":"80",
       "SSLPort":"443",
@@ -63,7 +63,7 @@
       "servermessage":""
     },
     {
-      "Name":"BRA-06 | FREE",
+      "Name":"BRA-06 FREE",
       "server_flag":"br",
       "ServerIP":"servidor1.terrorcloud.shop",
       "ServerPort":"80",
@@ -75,7 +75,7 @@
       "servermessage":""
     },
     {
-      "Name":"BRA-07 | FREE",
+      "Name":"BRA-07 FREE",
       "server_flag":"br",
       "ServerIP":"servidor1.terrorcloud.shop",
       "ServerPort":"80",
@@ -87,7 +87,7 @@
       "servermessage":""
     },
     {
-      "Name":"USA-01 | FREE",
+      "Name":"USA-01 FREE",
       "server_flag":"us",
       "ServerIP":"servidor2.terrorcloud.shop",
       "ServerPort":"80",
@@ -99,7 +99,7 @@
       "servermessage":""
     },
     {
-      "Name":"USA-02 | FREE",
+      "Name":"USA-02 FREE",
       "server_flag":"us",
       "ServerIP":"servidor2.terrorcloud.shop",
       "ServerPort":"80",
@@ -111,7 +111,7 @@
       "servermessage":""
     },
     {
-      "Name":"USA-03 | FREE",
+      "Name":"USA-03 FREE",
       "server_flag":"us",
       "ServerIP":"servidor2.terrorcloud.shop",
       "ServerPort":"80",
@@ -123,7 +123,7 @@
       "servermessage":""
     },
     {
-      "Name":"CA-01 | FREE",
+      "Name":"CA-01 FREE",
       "server_flag":"ca",
       "ServerIP":"servidor4.terrorcloud.shop",
       "ServerPort":"80",
@@ -135,7 +135,7 @@
       "servermessage":""
     },
     {
-      "Name":"CA-02 | FREE",
+      "Name":"CA-02 FREE",
       "server_flag":"ca",
       "ServerIP":"servidor4.terrorcloud.shop",
       "ServerPort":"80",
@@ -147,7 +147,7 @@
       "servermessage":""
     },
     {
-      "Name":"SG-01 | FREE",
+      "Name":"SG-01 FREE",
       "server_flag":"sg",
       "ServerIP":"servidor3.terrorcloud.shop",
       "ServerPort":"80",
@@ -161,7 +161,7 @@
   ],
   "Networks":[
     {
-      "Name":"VIVO TURBO - 01",
+      "Name":"VIVO TURBO 01",
       "payload_flag":"vivo",
       "Payload":"ACL wss://servidor2.terrorcloud.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP":"104.18.99.1#104.18.99.2#104.18.99.3#104.18.99.4#104.18.99.5#104.18.99.6#104.18.99.7#104.18.99.8#104.18.99.9#104.18.99.10#104.18.99.11#104.18.99.12#104.18.99.13#104.18.99.14#104.18.99.15#104.18.99.16#104.18.99.17#104.18.99.18#104.18.99.19#104.18.99.20#104.18.99.21#104.18.99.22#104.18.99.23#104.18.99.24",
@@ -174,35 +174,9 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO AVIÃO NOVO 🔥",
+      "Name":"VIVO MODO AVIÃO NOVO 🔥",
       "payload_flag":"vivo",
-      "Payload":"[split][delay_split]DELETE ● [lf][lf]",
-      "ProxyIP":"172.233.13.119",
-      "ProxyPort":"80",
-      "SNI":"",
-      "pInfo":"Operadora VIVO - Pré pago",
-      "Slowchave":"",
-      "Nameserver":"",
-      "Slowdns":"8.8.8.8",
-      "Modo":"Proxy"
-    },
-    {
-      "Name":"VIVO AVIÃO TODOS DDD - 00",
-      "payload_flag":"vivo",
-      "Payload":"[split][delay_split]DELETE ● [lf][lf]",
-      "ProxyIP":"45.140.193.148",
-      "ProxyPort":"80",
-      "SNI":"",
-      "pInfo":"Operadora VIVO - Pré pago",
-      "Slowchave":"",
-      "Nameserver":"",
-      "Slowdns":"8.8.8.8",
-      "Modo":"Proxy"
-    },
-    {
-      "Name":"VIVO SECURITY - 01",
-      "payload_flag":"vivo",
-      "Payload":"[split][lf]PUT - [lf]",
+      "Payload":"PATCH /1.1.1.1 HTTP/1.1/2606:4700:4700::1111Host: plus.google.com[lf]h2,http/1.1 /8.8.8.8 PATCH HTTP/1.1/2606:4700:4700::1111Host: plus.google.com[lf][lf]",
       "ProxyIP":"172.233.1.246",
       "ProxyPort":"80",
       "SNI":"",
@@ -213,7 +187,33 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO SECURITY - 02 🔥",
+      "Name":"VIVO MODO AVIÃO 🔥",
+      "payload_flag":"vivo",
+      "Payload":"[split] CONNECT HTTP / Host:api-equipamentos.vivo.com.br/ HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br[crlf]X-Forwarded-Host: api-equipamentos.vivo.com.br[crlf]Proxy-Connection: keep-alive[crlf]Upgrade: websocket[crlf][crlf]",
+      "ProxyIP":"45.140.193.148",
+      "ProxyPort":"80",
+      "SNI":"",
+      "pInfo":"Operadora VIVO - Pré pago",
+      "Slowchave":"",
+      "Nameserver":"",
+      "Slowdns":"8.8.8.8",
+      "Modo":"Proxy"
+    },
+    {
+      "Name":"VIVO SECURITY 01",
+      "payload_flag":"vivo",
+      "Payload":"[split][lf]PUT - [lf]",
+      "ProxyIP":"172.233.13.119",
+      "ProxyPort":"80",
+      "SNI":"",
+      "pInfo":"Operadora VIVO - Pré pago",
+      "Slowchave":"",
+      "Nameserver":"",
+      "Slowdns":"8.8.8.8",
+      "Modo":"Proxy"
+    },
+    {
+      "Name":"VIVO SECURITY 02",
       "payload_flag":"vivo",
       "Payload":"[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
       "ProxyIP":"45.140.193.148",
@@ -226,9 +226,9 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO SECURITY - 03 🔥",
+      "Name":"VIVO SECURITY 03",
       "payload_flag":"vivo",
-      "Payload":"HTTP/1.1[crlf] 200 Connection established\r\nHost: GET /? HTTP/2.0\r\nHost: youtube.com\r\n200 Connection established\r\nProxy-Connection: close\r\nConnection-Keep-true\r\nControl-Cache: no-cache\r\nContent-Length: 9999999999999999999\r\nUser-Agent: Yes \r\nContent-Encoding: 88888888\r\nContent-Language: 00000000\r\nContent-Length: 55555555\r\nContent-Location:33333333[crlf][crlf][",
+      "Payload":"ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
       "ProxyIP":"172.233.13.119",
       "ProxyPort":"80",
       "SNI":"",
@@ -239,10 +239,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO SECURITY - 04",
+      "Name":"VIVO SECURITY 04",
       "payload_flag":"vivo",
       "Payload":"[split][delay_split]ACL / /\\n",
-      "ProxyIP":"172.233.14.28",
+      "ProxyIP":"172.233.1.246",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
@@ -252,7 +252,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO SECURITY - 05",
+      "Name":"VIVO SECURITY 05",
       "payload_flag":"vivo",
       "Payload":"[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "ProxyIP":"45.140.193.148",
@@ -265,7 +265,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO EASY + CONTROLE - 01",
+      "Name":"VIVO EASY + CONTROLE 01",
       "payload_flag":"vivo",
       "Payload":"POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: servidor3.terrorcloud.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "ProxyIP":"141.193.213.10#104.18.7.41#104.18.6.41#162.159.138.6#162.159.128.7#104.17.70.206#104.17.71.206#172.64.144.109#104.18.7.41#104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113#141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
@@ -278,7 +278,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO EASY + CONTROLE - 02",
+      "Name":"VIVO EASY + CONTROLE 02",
       "payload_flag":"vivo",
       "Payload":"ACL / HTTP/1.1[lf]Host: [rotate=servidor1.terrorcloud.shop;servidor2.terrorcloud.shop;servidor3.terrorcloud.shop;servidor4.terrorcloud.shop][crlf]Upgrade: websocket[crlf][crlf]",
       "ProxyIP":"141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
@@ -291,7 +291,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO EASY + CONTROLE - 03",
+      "Name":"VIVO EASY + CONTROLE 03",
       "payload_flag":"vivo",
       "Payload":"ACL / HTTP/1.1[lf]Host: [rotate=servidor1.terrorcloud.shop;servidor2.terrorcloud.shop;servidor3.terrorcloud.shop;servidor4.terrorcloud.shop][crlf]Upgrade: websocket[crlf][crlf]",
       "ProxyIP":"104.17.70.206141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
@@ -304,7 +304,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO EASY + CONTROLE - 04",
+      "Name":"VIVO EASY + CONTROLE 04",
       "payload_flag":"vivo",
       "Payload":"ACL / HTTP/1.1[lf]Host: [rotate=servidor2.terrorcloud.shop][crlf]Upgrade: websocket[crlf][crlf]",
       "ProxyIP":"141.193.213.11#104.16.51.111#104.16.53.111#141.193.213.10",
@@ -317,7 +317,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM TODOS DDD - 01",
+      "Name":"TIM TODOS DDD 01",
       "payload_flag":"tim",
       "Payload":"GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app982 HTTP/1.1[crlf]Host: [rotate=d2dfi906ke9ms9.cloudfront.net][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "ProxyIP":"premier.sonos.dzcdn.net#timpospromo.com.br#launches.appsflyer.com#conversions.appsflyer.com#timlive.tim.com.br#io.descomplica.com.br",
@@ -330,7 +330,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM TODOS DDDD - 02",
+      "Name":"TIM TODOS DDDD 02",
       "payload_flag":"tim",
       "Payload":"ACL / HTTP/1.1[crlf]Host: [rotate=timpospromo.com.br;tim.com.br][lf][lf][split][lf]PATCH /app971 HTTP/1.1[lf]Host: [rotate=cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "ProxyIP":"13.227.97.116#13.227.97.28#13.227.97.69#99.84.31.80#13.227.126.91#52.85.213.121#13.227.126.58#launches.appsflyer.com#university.segment.com#status.segment.com#cdn.edgefn.segment.com#www.dev.segment.com#commercials-db.dataeng.segment.com#static.segment.com#dev.segment.com#email.e.segment.com#g.segment.com#sagemaker.datasci.segment.com#messaging-cdn-app.segment.com#stage.segment.com#ajs.cd.segment.com#www.stage.segment.com#cdn-settings.segment.com#cdn-slow.segment.com#www.preview.segment.com#community.segment.com#13.227.97.49#13.227.97.116#13.227.97.28#13.227.97.69#99.84.31.80#13.227.126.91#52.85.213.121#13.227.126.58#timpospromo.com.br#d3uyk7qgi7fgpo.cloudfront.net#d3awytnmmfk53d.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#frontend-tim-recarga-client.m4u.com.br#blog.onecodex.com",
@@ -343,7 +343,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM AVIÃO EXPIRADO - 01",
+      "Name":"TIM AVIÃO EXPIRADO 01",
       "payload_flag":"tim",
       "Payload":"HTTP/1.1 [lf]Host: [host][lf][lf]Upgrade: websocket[crlf]Connection: Upgrade[lf][lf]",
       "ProxyIP":"45.140.193.148",
@@ -356,7 +356,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM AVIÃO EXPIRADO - 02",
+      "Name":"TIM AVIÃO EXPIRADO 02",
       "payload_flag":"tim",
       "Payload":"HTTP/ [lf][lf]|[lf]GET global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[lf]",
       "ProxyIP":"45.140.193.148",
@@ -369,7 +369,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM AVIÃO EXPIRADO - 03",
+      "Name":"TIM AVIÃO EXPIRADO 03",
       "payload_flag":"tim",
       "Payload":"HTTP/ [lf][lf][ua]",
       "ProxyIP":"45.140.193.148",
@@ -382,7 +382,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM MODO AVIÃO - 04",
+      "Name":"TIM MODO AVIÃO 04",
       "payload_flag":"tim",
       "Payload":"ACL / HTTP/1.1[lf]Host: servidor1.terrorcloud.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
       "ProxyIP":"104.236.14.53#104.19.241.93#104.18.28.182#104.19.239.25#104.18.33.113#172.64.154.143#104.18.99.70#104.16.53.111#172.67.188.168#104.17.64.225",
@@ -395,7 +395,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM MODO AVIÃO - 05",
+      "Name":"TIM MODO AVIÃO 05",
       "payload_flag":"tim",
       "Payload":"PATCH / HTTP/1.1[lf]Host: [rotate=servidor1.terrorcloud.shop;svdfree2.vivomoney.xyz;svdfree3.vivomoney.xyz;svdfree4.vivomoney.xyz][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#HEAD / HTTP/1.1[lf]Host: [rotate=suacdn][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP":"164.92.80.195:frontend-tim-recarga-client.m4u.com.br#52.85.213.77#52.85.213.112#52.85.213.121#52.85.213.74#52.67.198.135#cc-brand.plat-m4u.io#108.139.113.45#dex.descomplica.com.br#13.33.123.107#18.67.129.91#18.67.129.103#18.67.129.119#18.67.129.10#oi-recarga.oston.io#www.timlive.tim.com.br#timlive.tim.com.br#13.227.126.39#13.227.126.40#13.227.126.91#99.84.31.114#99.84.31.97#99.84.31.8#99.84.31.80#io.descomplica.com.br#3.163.10.29#3.163.10.81#3.163.10.19#3.163.10.100#conversions.appsflyer.com#3.163.10.112#3.163.10.104#3.163.10.54#3.163.10.121#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#launches.appsflyer.com#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#13.227.126.58#18.67.129.17#c6bank.onelink.me#99.84.31.110#99.84.31.38#99.84.31.63#99.84.31.9#13.248.245.213#54.231.225.121#65.9.95.105#18.66.147.27#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#99.84.37.44#13.226.22.87#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#99.84.37.44#13.226.22.87#13.227.126.39#13.227.126.40#13.227.126.91#13.227.126.39#13.227.126.40#13.227.126.91#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#13.227.126.58",
@@ -408,7 +408,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM MODO AVIÃO - 06",
+      "Name":"TIM MODO AVIÃO 06",
       "payload_flag":"tim",
       "Payload":"HTTP/1.0 [lf][lf][lf]|",
       "ProxyIP":"172.233.14.28",
@@ -421,7 +421,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM VÁLIDO NOVO 🇧🇷",
+      "Name":"TIM VÁLIDO NOVO",
       "payload_flag":"tim",
       "Payload":"ACL / HTTP/1.1[lf]Host: servidor3.terrorcloud.shop[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
       "ProxyIP":"104.19.241.93#141.193.213.10#141.193.213.11#104.18.33.113#blog.deezer.com#dataacademy.descomplica.com.br#104.19.240.25#104.18.27.160#104.16.53.111#104.19.240.93#104.19.241.93#mobile.c6bank.app#104.17.64.225#pre-onboarding-p.c6bank.app#104.18.33.113#104.18.98.70#104.18.99.70#104.16.53.111#104.16.239.166#104.18.28.182#dataacademy.descomplica.com.br",
@@ -434,7 +434,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM SALDO VÁLIDO- 02 🟢",
+      "Name":"TIM SALDO VÁLIDO- 01",
       "payload_flag":"tim",
       "Payload":"ACL /index.html HTTP/1.1[crlf]Host: live.vivo.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: servidor6.terrorcloud.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "ProxyIP":"investnews.com.br",
@@ -447,7 +447,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"TIM SALDO VÁLIDO - 03 🟢",
+      "Name":"TIM SALDO VÁLIDO - 02",
       "payload_flag":"tim",
       "Payload":"GET / HTTP/1.1[lf]Host: servidor6.terrorcloud.shop[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP":"104.18.33.113#172.64.154.143#172.67.188.168#104.17.64.225#104.18.99.70",
@@ -460,7 +460,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO AVIÃO NOVA 🇧🇷 1",
+      "Name":"CLARO AVIÃO NOVA 01",
       "payload_flag":"claro",
       "Payload":"PATCH http://m.claro.com.br HTTP/1.0[crlf]Host: m.claro.com.br;meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "ProxyIP":"45.140.193.148",
@@ -473,7 +473,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO AVIÃO NOVA 🇧🇷 2",
+      "Name":"CLARO AVIÃO NOVA 02",
       "payload_flag":"claro",
       "Payload":"PATCH / HTTP/1.1[lf]Host: meuplanoclaro.com.br[lf]HTTP/1.1[lf]Host: meuplanoclaro.com.br[lf]X-Online-Host: meuplanoclaro.com.br[lf]X-Forwarded-Host: meuplanoclaro.com.br[lf]X-Forwarded-For: meuplanoclaro.com.br[lf]Proxy-Connection: Websocket[lf]Connection: Websocket[lf] [lf][lf]",
       "ProxyIP":"45.140.193.148",
@@ -486,7 +486,7 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"CLARO PLANOS - 02",
+      "Name":"CLARO PLANOS - 01",
       "payload_flag":"claro",
       "Payload":"GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "ProxyIP":"45.140.193.148",
