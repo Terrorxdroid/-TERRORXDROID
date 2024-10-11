@@ -1,11 +1,11 @@
 {
-  "version":"174",
+  "version":"175",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
       "Name":"BRA-01 FREE",
       "server_flag":"br",
-      "ServerIP":"servidor1.terrorcloud.shop",
+      "ServerIP":"45.140.193.148",
       "ServerPort":"80",
       "SSLPort":"443",
       "XUser":"teste",
