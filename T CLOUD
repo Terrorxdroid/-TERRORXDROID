@@ -11,7 +11,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://45.140.193.148:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:5454/checkUser",
       "servermessage":""
     },
     {
@@ -23,7 +23,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree1.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:5454/checkUser",
       "servermessage":""
     },
     {
