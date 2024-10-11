@@ -1,5 +1,5 @@
 {
-  "version":"173",
+  "version":"174",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -11,7 +11,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"https://chk-terror.shop/apiproxy/proxy.php?url=http://45.140.193.148:8888/checkUser",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -35,7 +35,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -47,7 +47,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree3.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -59,7 +59,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree4.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -71,7 +71,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"https://chk-terror.shop/apiproxy/proxy.php?url=http://45.140.193.148:8888/checkUser",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -83,7 +83,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree1.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -95,7 +95,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -107,7 +107,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -119,7 +119,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree2.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -131,7 +131,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree3.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -143,7 +143,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree3.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     },
     {
@@ -155,7 +155,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://svdfree4.vivomoney.xyz:8888/server/online",
+      "connections_info_url":"http://45.140.193.148:8888/server/online",
       "servermessage":""
     }
   ],
