@@ -1,5 +1,5 @@
 {
-  "version":"179",
+  "version":"180",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -23,7 +23,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://172.233.25.61:5454/check/usuario",
+      "connections_info_url":"http://172.233.25.61:5454/check/teste",
       "servermessage":""
     },
     {
@@ -174,10 +174,10 @@
       "Modo":"Proxy"
     },
     {
-      "Name":"VIVO MODO AVIÃO NOVO 🔥",
+      "Name":"VIVO MODO AVIÃO ON 🟢",
       "payload_flag":"vivo",
       "Payload":"PATCH /1.1.1.1 HTTP/1.1/2606:4700:4700::1111Host: plus.google.com[lf]h2,http/1.1 /8.8.8.8 PATCH HTTP/1.1/2606:4700:4700::1111Host: plus.google.com[lf][lf]",
-      "ProxyIP":"172.233.1.246",
+      "ProxyIP":"172.233.25.61",
       "ProxyPort":"80",
       "SNI":"",
       "pInfo":"Operadora VIVO - Pré pago",
