@@ -1,5 +1,5 @@
 {
-  "version":"180",
+  "version":"181",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -319,7 +319,7 @@
     {
       "Name":"TIM TODOS DDD 01",
       "payload_flag":"tim",
-      "Payload":"HEAD / HTTP/1.1[crlf]Host: [rotate=timpospromo.com.br;launches.appsflyer.com;conversions.appsflyer.com;tim.com.br;io.descomplica.com.br;timlive.tim.com.br;www.timlive.tim.com.br;frontend-tim-recarga-client.m4u.com.br][crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: d2dfi906ke9ms9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app982 HTTP/1.1[crlf]Host: [rotate=d2ldvhdb9uj1en.cloudfront.net][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "ProxyIP":"premier.sonos.dzcdn.net#timpospromo.com.br#launches.appsflyer.com#conversions.appsflyer.com#timlive.tim.com.br#io.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
@@ -332,7 +332,7 @@
     {
       "Name":"TIM TODOS DDDD 02",
       "payload_flag":"tim",
-      "Payload":"PUT / HTTP/1.1[crlf]Host: [rotate=timpospromo.com.br;tim.com.br][lf][lf][split][lf]PATCH /app971 HTTP/1.1[lf]Host: [rotate=cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=timpospromo.com.br;tim.com.br][lf][lf][split][lf]PATCH /app971 HTTP/1.1[lf]Host: [rotate=cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "ProxyIP":"premier.sonos.dzcdn.net#timpospromo.com.br#launches.appsflyer.com#conversions.appsflyer.com#timlive.tim.com.br#io.descomplica.com.br",
       "ProxyPort":"80",
       "SNI":"",
