@@ -1,5 +1,5 @@
 {
-  "version":"178",
+  "version":"179",
   "release_notes":"✅ NOVAS CONFIGURAÇÕES VIVO TIM ADICIONANDAS\n✅ MELHORIA NAS CONEXÕES\n✅ MELHORIAS NO BAD-VPN\n\n⚠️ GRUPO: https://t.me/BrasilVPN2\n\n✌️ Obrigado por usar nosso aplicativo !",
   "servers":[
     {
@@ -23,7 +23,7 @@
       "XUser":"teste",
       "XPass":"teste",
       "sInfo":"FREE VPN",
-      "connections_info_url":"http://45.140.193.148:5454/checkUser",
+      "connections_info_url":"http://172.233.25.61:5454/check/usuario",
       "servermessage":""
     },
     {
